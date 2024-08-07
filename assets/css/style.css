@@ -1,12 +1,10 @@
 body{
     font-family: "Roboto", sans-serif;
 }
+
 .margin{
     margin-right: 1.5rem;
     margin-top: 1.5rem;
-}
-.fontstyle{
-    color: darkslategray;
 }
 .logo{
     width: 5rem;
@@ -20,4 +18,74 @@ body{
 }
 .color span{
     color: #ff914d
+}
+.navbarCustom{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar ul li a{
+    color: #724c09;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.buttonHeader{
+    color: #724c09;!important;
+}
+#btnColor{
+    color: #724c09;
+    border: 1px solid #724c09;
+}
+#btnColor:hover{
+    background-color: #724c09;
+    color: #fff;
+}
+#textColorPrimary{
+    color: #0e6efd;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+
+}
+#textColorSecondary{
+    color: #6c757e;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+
+}
+#textColorInfo{
+    color: #0dcaf0;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+
+}
+#textColorWarning{
+    color: #ffc108;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+
+}
+#textColorDanger{
+    color: #dc3545;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+}
+#cardItem1{
+    color: #724c09;!important;
+}
+#cardItem2{
+    color: #724c09;!important;
+}
+#cardItem3{
+    color: #724c09;!important;
+}
+#cardItem4{
+    color: #724c09;!important;
+}
+#cardHeading{
+    color: #724c09;
+    font-weight: 600;
 }
