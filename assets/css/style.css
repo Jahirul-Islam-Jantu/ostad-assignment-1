@@ -1,5 +1,6 @@
 body{
     font-family: "Roboto", sans-serif;
+
 }
 
 .margin{
@@ -88,4 +89,31 @@ body{
 #cardHeading{
     color: #724c09;
     font-weight: 600;
+}
+#btnColor1{
+    color: #724c09;
+    border: 1px solid #724c09;
+}
+#btnColor1:hover{
+    background-color: #724c09;
+    color: #fff;
+}
+#contactForm{
+    color: #724c09;
+    font-weight: 600;
+}
+#input-text{
+    color: #724c09;
+}
+#input-text2{
+    color: #724c09;
+}
+#input-text3{
+    color: #724c09;
+}
+#input-text4{
+    color: #724c09;
+}
+#input-text5{
+    color: #724c09;
 }
