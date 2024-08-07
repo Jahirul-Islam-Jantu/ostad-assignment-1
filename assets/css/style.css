@@ -117,3 +117,19 @@ body{
 #input-text5{
     color: #724c09;
 }
+#paginationCss{
+    color: #724c09;
+    font-weight: 600;
+}
+#bar{
+    color: #724c09;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+#listGrp{
+    color: #724c09;
+    font-weight: 600;
+}
+.page ul li a{
+    color: #724c09;
+}
